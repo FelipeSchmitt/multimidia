@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/1792302.jpg);
+    background-size: 110%;
+}
+#audiogrid{
+    margin-left: 10%;
+    background-color: rgba(255, 255, 255, 0.068);
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+#boxmusic{
+    width: 100%;
+    background-color:rgba(255, 255, 255, 0.2);
+    height: 65%;
+}
+#boxmusic img{
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    width: 95%;
+}
+h1{
+    text-align: center;
+    font-family: Helvetica;
+    color: rgba(255, 255, 255);
+}
+audio{
+    margin-top: 10%;
+    margin-left: 10%;
+    background-color: whitesmoke;
+    width: 86.6%;
+}
+#audiolist{
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 90%;
+    height: 100%;
+}
+#audiolist h1{
+    font-family: Arial;
+    color: black;
+}
