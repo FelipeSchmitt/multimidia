@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+nav{
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+#icons{
+    margin-left: 42.5%;
+}
+nav img{
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    width: 8%;
+}
+nav img:active{
+    box-shadow: 0 0 5px black;
+}

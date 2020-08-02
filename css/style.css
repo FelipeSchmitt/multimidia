@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/7285.jpg);
+    background-size: 110%;
+}
+.functions{
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.functions img{
+    padding:10%;
+    border-radius: 50em;
+}
+.functions img:active{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1)
+}
